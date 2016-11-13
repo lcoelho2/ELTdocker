@@ -1,2 +1,2 @@
 FROM rocker/shiny
-ADD Docker_proj /srv/shiny-server/ELTdocker
+ADD ELTshiny_docker /srv/shiny-server/ELTshiny_docker
